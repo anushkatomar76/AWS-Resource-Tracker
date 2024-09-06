@@ -1,4 +1,4 @@
-# aws-resources
+AWS- Resouse Tracker
 
 We will take a look at the a real time project that most of the DevOps engineers use in their organizations.
 
