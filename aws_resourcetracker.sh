@@ -23,7 +23,7 @@ set -x
 
 #List S3 buckets
 echo "Print list of s3 buckets"
-aws s3 ls
+aws s3 ls >> resourceTracker
 
 #List EC2 instance
 echo "Print list of ec2 instances"
@@ -31,7 +31,7 @@ aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceId'
 
 #List aws lambda
 echo "Print list of lambda functions"
-aws lambda list-functions
+aws lambda list-functions >> resourceTracker
 
 #List IAM Users
 echo "Print list of IAM user"
