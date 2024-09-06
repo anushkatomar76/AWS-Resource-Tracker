@@ -9,7 +9,9 @@ The AWS Resource Tracker is a powerful automation tool designed to streamline AW
 Components Leveraging the AWS CLI and Linux commands, this project automates tasks such as resource listing, description, monitoring, and automation.
 
 How to Use Clone the repository to your local machine. Ensure you have the AWS CLI installed and configured with appropriate permissions. Execute the shell script to retrieve information about your AWS resources. Customize and extend the script as needed for your specific requirements. Version This is version 1 of the script, marking the initial release.
+-----------------------------------
 
 Author Authored by Anushka Tomar.
 
 Date 06-09-24
+--------------------------------
