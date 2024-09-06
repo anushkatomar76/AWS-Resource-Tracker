@@ -13,9 +13,9 @@ IAM Users: Gain insights into IAM users, ensuring secure access management withi
 
 RDB Instances: Fetch comprehensive details of AWS RDS database instances, facilitating streamlined database management.
 
-Purpose The AWS Resource Tracker provides visibility and control over various AWS resources, including EC2 instances, S3 buckets, RDS databases, and more. It aims to simplify resource management, enhance security, and optimize resource utilization for greater efficiency.
+Purpose: The AWS Resource Tracker provides visibility and control over various AWS resources, including EC2 instances, S3 buckets, RDS databases, and more. It aims to simplify resource management, enhance security, and optimize resource utilization for greater efficiency.
 -------------------------------------
-Components Leveraging the AWS CLI and Linux commands, this project automates tasks such as resource listing, description, monitoring, and automation.
+Components: Leveraging the AWS CLI and Linux commands, this project automates tasks such as resource listing, description, monitoring, and automation.
 How to Use Clone the repository to your local machine. Ensure you have the AWS CLI installed and configured with appropriate permissions. Execute the shell script to retrieve information about your AWS resources. Customize and extend the script as needed for your specific requirements. Version This is version 1 of the script, marking the initial release.
 -----------------------------------
 
